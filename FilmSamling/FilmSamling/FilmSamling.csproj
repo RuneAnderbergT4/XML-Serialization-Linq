@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MovieCollection.cs" />
+    <Compile Include="MovieSortAndList.cs" />
     <Compile Include="ObjectXmlSerializer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

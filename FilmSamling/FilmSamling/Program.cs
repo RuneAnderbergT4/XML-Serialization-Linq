@@ -18,9 +18,9 @@ namespace FilmSamling
             //Console.WriteLine("Den första filmen i listan verkar vara " + mc.Movies[0].Name);
 
             // Lists all movies (Uppgift 1)
-            //foreach (Movie t in mc.Movies)
+            //foreach (Movie n in mc.Movies)
             //{
-            //    Console.WriteLine(String.Format("{0,-60}", t.Name) + String.Format("{0,-10}", t.Year) + t.Rating);
+            //    Console.WriteLine(String.Format("{0,-60}", n.Name) + String.Format("{0,-10}", n.Year) + n.Rating);
             //}
 
             //// Sort and list top 20 movies (based on rating) (uppgift 2)
@@ -37,6 +37,13 @@ namespace FilmSamling
             //foreach (var t in mc2012)
             //{
             //    Console.WriteLine(String.Format("{0,-60}", t.Name) + String.Format("{0,-10}", t.Year) + String.Format("{0,-10}", t.Rating) + t.Votes);
+            //}
+
+            //// Lists movies in alphabetical order (uppgift 4)
+            //List<Movie> mcAlphabetical = mc.Movies.OrderBy(movie => movie.Name).ToList();
+            //foreach (Movie n in mcAlphabetical)
+            //{
+            //    Console.WriteLine(String.Format("{0,-60}", n.Name) + String.Format("{0,-10}", n.Year) + n.Rating);
             //}
 
             Console.ReadKey();

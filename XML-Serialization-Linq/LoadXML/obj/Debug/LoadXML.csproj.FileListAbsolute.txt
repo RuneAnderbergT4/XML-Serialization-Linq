@@ -1,1 +1,8 @@
 C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\LoadXML\bin\Debug\LoadXML.exe.config
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\XML-Serialization-Linq\LoadXML\bin\Debug\LoadXML.exe.config
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\XML-Serialization-Linq\LoadXML\bin\Debug\LoadXML.exe
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\XML-Serialization-Linq\LoadXML\bin\Debug\LoadXML.pdb
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\XML-Serialization-Linq\LoadXML\obj\Debug\LoadXML.csprojResolveAssemblyReference.cache
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\XML-Serialization-Linq\LoadXML\obj\Debug\LoadXML.exe
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\XML-Serialization-Linq\LoadXML\obj\Debug\LoadXML.pdb
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\XML-Serialization-Linq\LoadXML\bin\Debug\boksamling.xml

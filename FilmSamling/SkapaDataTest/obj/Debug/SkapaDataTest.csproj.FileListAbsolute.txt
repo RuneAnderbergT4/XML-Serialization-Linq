@@ -1,0 +1,9 @@
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\bin\Debug\SkapaDataTest.exe.config
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\bin\Debug\moviecollection.xml
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\bin\Debug\SkapaDataTest.exe
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\bin\Debug\SkapaDataTest.pdb
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\bin\Debug\FilmSamling.exe
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\bin\Debug\FilmSamling.pdb
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\obj\Debug\SkapaDataTest.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\obj\Debug\SkapaDataTest.exe
+C:\Users\Jonas\Desktop\FilmSamling\SkapaDataTest\obj\Debug\SkapaDataTest.pdb

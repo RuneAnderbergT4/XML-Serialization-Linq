@@ -1,0 +1,802 @@
+<MovieCollection>
+	<Movies>
+        <Movie >
+            <Id>110413</Id>
+            <Name>Léon</Name>
+            <Rating>8.6</Rating>
+            <Votes>662518</Votes>
+            <Year>1994</Year>
+        </Movie>
+        <Movie >
+            <Id>1345836</Id>
+            <Name>The Dark Knight Rises</Name>
+            <Rating>8.6</Rating>
+            <Votes>591013</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>120737</Id>
+            <Name>The Lord of the Rings: The Fellowship of the Ring</Name>
+            <Rating>8.8</Rating>
+            <Votes>548003</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>268978</Id>
+            <Name>A Beautiful Mind</Name>
+            <Rating>8.2</Rating>
+            <Votes>514694</Votes>
+            <Year>2001</Year>
+        </Movie>
+        <Movie >
+            <Id>816692</Id>
+            <Name>Interstellar</Name>
+            <Rating>8.8</Rating>
+            <Votes>510360</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>108052</Id>
+            <Name>Schindler's List</Name>
+            <Rating>8.9</Rating>
+            <Votes>495340</Votes>
+            <Year>1993</Year>
+        </Movie>
+        <Movie >
+            <Id>993846</Id>
+            <Name>The Wolf of Wall Street</Name>
+            <Rating>8.3</Rating>
+            <Votes>477022</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>120815</Id>
+            <Name>Saving Private Ryan</Name>
+            <Rating>8.6</Rating>
+            <Votes>452247</Votes>
+            <Year>1998</Year>
+        </Movie>
+        <Movie >
+            <Id>167260</Id>
+            <Name>The Lord of the Rings: The Return of the King</Name>
+            <Rating>8.8</Rating>
+            <Votes>423824</Votes>
+            <Year>2003</Year>
+        </Movie>
+        <Movie >
+            <Id>111161</Id>
+            <Name>The Shawshank Redemption</Name>
+            <Rating>9.2</Rating>
+            <Votes>423467</Votes>
+            <Year>1995</Year>
+        </Movie>
+        <Movie >
+            <Id>120338</Id>
+            <Name>Titanic</Name>
+            <Rating>7.6</Rating>
+            <Votes>415704</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>137523</Id>
+            <Name>Fight Club</Name>
+            <Rating>8.8</Rating>
+            <Votes>393702</Votes>
+            <Year>1999</Year>
+        </Movie>
+        <Movie >
+            <Id>848228</Id>
+            <Name>The Avengers</Name>
+            <Rating>8.4</Rating>
+            <Votes>390394</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>903624</Id>
+            <Name>The Hobbit: An Unexpected Journey</Name>
+            <Rating>8</Rating>
+            <Votes>384055</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>167261</Id>
+            <Name>The Lord of the Rings: The Two Towers</Name>
+            <Rating>8.7</Rating>
+            <Votes>378941</Votes>
+            <Year>2002</Year>
+        </Movie>
+        <Movie >
+            <Id>82971</Id>
+            <Name>Raiders of the Lost Ark</Name>
+            <Rating>8.7</Rating>
+            <Votes>367850</Votes>
+            <Year>1981</Year>
+        </Movie>
+        <Movie >
+            <Id>468569</Id>
+            <Name>The Dark Knight</Name>
+            <Rating>8.9</Rating>
+            <Votes>367101</Votes>
+            <Year>2008</Year>
+        </Movie>
+        <Movie >
+            <Id>68646</Id>
+            <Name>The Godfather</Name>
+            <Rating>9.1</Rating>
+            <Votes>351329</Votes>
+            <Year>1972</Year>
+        </Movie>
+        <Movie >
+            <Id>1170358</Id>
+            <Name>The Hobbit: The Desolation of Smaug</Name>
+            <Rating>8</Rating>
+            <Votes>345690</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>2395427</Id>
+            <Name>Avengers: Age of Ultron</Name>
+            <Rating>7.7</Rating>
+            <Votes>332158</Votes>
+            <Year>2015</Year>
+        </Movie>
+        <Movie >
+            <Id>1392190</Id>
+            <Name>Mad Max: Fury Road</Name>
+            <Rating>8.3</Rating>
+            <Votes>332033</Votes>
+            <Year>2015</Year>
+        </Movie>
+        <Movie >
+            <Id>1853728</Id>
+            <Name>Django Unchained</Name>
+            <Rating>8.6</Rating>
+            <Votes>331842</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>2015381</Id>
+            <Name>Guardians of the Galaxy</Name>
+            <Rating>8.3</Rating>
+            <Votes>330817</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>133093</Id>
+            <Name>The Matrix</Name>
+            <Rating>8.7</Rating>
+            <Votes>323660</Votes>
+            <Year>1999</Year>
+        </Movie>
+        <Movie >
+            <Id>1877832</Id>
+            <Name>X-Men: Days of Future Past</Name>
+            <Rating>8.2</Rating>
+            <Votes>311243</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>2310332</Id>
+            <Name>The Hobbit: The Battle of the Five Armies</Name>
+            <Rating>7.5</Rating>
+            <Votes>309184</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>1951264</Id>
+            <Name>The Hunger Games: Catching Fire</Name>
+            <Rating>7.8</Rating>
+            <Votes>305606</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>369610</Id>
+            <Name>Jurassic World</Name>
+            <Rating>7.2</Rating>
+            <Votes>305382</Votes>
+            <Year>2015</Year>
+        </Movie>
+        <Movie >
+            <Id>770828</Id>
+            <Name>Man of Steel</Name>
+            <Rating>7.4</Rating>
+            <Votes>304397</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>169547</Id>
+            <Name>American Beauty</Name>
+            <Rating>8.6</Rating>
+            <Votes>298375</Votes>
+            <Year>2000</Year>
+        </Movie>
+        <Movie >
+            <Id>1074638</Id>
+            <Name>Skyfall</Name>
+            <Rating>7.8</Rating>
+            <Votes>295318</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>2294629</Id>
+            <Name>Frozen</Name>
+            <Rating>7.7</Rating>
+            <Votes>286776</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>1843866</Id>
+            <Name>Captain America: The Winter Soldier</Name>
+            <Rating>7.9</Rating>
+            <Votes>286016</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>1454468</Id>
+            <Name>Gravity</Name>
+            <Rating>8.2</Rating>
+            <Votes>283695</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>1981115</Id>
+            <Name>Thor: The Dark World</Name>
+            <Rating>7.2</Rating>
+            <Votes>282692</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>114369</Id>
+            <Name>Se7en</Name>
+            <Rating>8.7</Rating>
+            <Votes>278918</Votes>
+            <Year>1996</Year>
+        </Movie>
+        <Movie >
+            <Id>264464</Id>
+            <Name>Catch Me If You Can</Name>
+            <Rating>7.9</Rating>
+            <Votes>276057</Votes>
+            <Year>2002</Year>
+        </Movie>
+        <Movie >
+            <Id>2024544</Id>
+            <Name>12 Years a Slave</Name>
+            <Rating>8.2</Rating>
+            <Votes>275980</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>1300854</Id>
+            <Name>Iron Man 3</Name>
+            <Rating>7.4</Rating>
+            <Votes>273173</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>97576</Id>
+            <Name>Indiana Jones and the Last Crusade</Name>
+            <Rating>8.3</Rating>
+            <Votes>271901</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>499549</Id>
+            <Name>Avatar</Name>
+            <Rating>8.3</Rating>
+            <Votes>271671</Votes>
+            <Year>2009</Year>
+        </Movie>
+        <Movie >
+            <Id>1800241</Id>
+            <Name>American Hustle</Name>
+            <Rating>7.4</Rating>
+            <Votes>265501</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>109830</Id>
+            <Name>Forrest Gump</Name>
+            <Rating>8.6</Rating>
+            <Votes>262473</Votes>
+            <Year>1994</Year>
+        </Movie>
+        <Movie >
+            <Id>1520211</Id>
+            <Name>The Walking Dead</Name>
+            <Rating>8.7</Rating>
+            <Votes>256556</Votes>
+            <Year>2010</Year>
+        </Movie>
+        <Movie >
+            <Id>1392170</Id>
+            <Name>The Hunger Games</Name>
+            <Rating>7.3</Rating>
+            <Votes>251552</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>3659388</Id>
+            <Name>The Martian</Name>
+            <Rating>8.1</Rating>
+            <Votes>250441</Votes>
+            <Year>2015</Year>
+        </Movie>
+        <Movie >
+            <Id>314331</Id>
+            <Name>Love Actually</Name>
+            <Rating>7.7</Rating>
+            <Votes>245825</Votes>
+            <Year>2003</Year>
+        </Movie>
+        <Movie >
+            <Id>172495</Id>
+            <Name>Gladiator</Name>
+            <Rating>8.3</Rating>
+            <Votes>241697</Votes>
+            <Year>2000</Year>
+        </Movie>
+        <Movie >
+            <Id>1798709</Id>
+            <Name>Her</Name>
+            <Rating>8.1</Rating>
+            <Votes>237037</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>1637725</Id>
+            <Name>Ted</Name>
+            <Rating>7.1</Rating>
+            <Votes>235092</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>816711</Id>
+            <Name>World War Z</Name>
+            <Rating>7.1</Rating>
+            <Votes>232659</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>1408101</Id>
+            <Name>Star Trek Into Darkness</Name>
+            <Rating>7.9</Rating>
+            <Votes>230412</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>1375666</Id>
+            <Name>Inception</Name>
+            <Rating>9</Rating>
+            <Votes>230317</Votes>
+            <Year>2010</Year>
+        </Movie>
+        <Movie >
+            <Id>114814</Id>
+            <Name>The Usual Suspects</Name>
+            <Rating>8.7</Rating>
+            <Votes>229639</Votes>
+            <Year>1995</Year>
+        </Movie>
+        <Movie >
+            <Id>372784</Id>
+            <Name>Batman Begins</Name>
+            <Rating>8.3</Rating>
+            <Votes>228391</Votes>
+            <Year>2005</Year>
+        </Movie>
+        <Movie >
+            <Id>209144</Id>
+            <Name>Memento</Name>
+            <Rating>8.6</Rating>
+            <Votes>227123</Votes>
+            <Year>2001</Year>
+        </Movie>
+        <Movie >
+            <Id>73195</Id>
+            <Name>Jaws</Name>
+            <Rating>8.2</Rating>
+            <Votes>222547</Votes>
+            <Year>1975</Year>
+        </Movie>
+        <Movie >
+            <Id>1872181</Id>
+            <Name>The Amazing Spider-Man 2</Name>
+            <Rating>7</Rating>
+            <Votes>220669</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>1276104</Id>
+            <Name>Looper</Name>
+            <Rating>7.6</Rating>
+            <Votes>218923</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>2096673</Id>
+            <Name>Pete Docter</Name>
+            <Rating>8.4</Rating>
+            <Votes>218489</Votes>
+            <Year>2015</Year>
+        </Movie>
+        <Movie >
+            <Id>2802144</Id>
+            <Name>Kingsman: The Secret Service</Name>
+            <Rating>7.9</Rating>
+            <Votes>218462</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>831387</Id>
+            <Name>Godzilla</Name>
+            <Rating>6.6</Rating>
+            <Votes>216229</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>401792</Id>
+            <Name>Sin City</Name>
+            <Rating>8.4</Rating>
+            <Votes>214275</Votes>
+            <Year>2005</Year>
+        </Movie>
+        <Movie >
+            <Id>407887</Id>
+            <Name>The Departed</Name>
+            <Rating>8.5</Rating>
+            <Votes>213536</Votes>
+            <Year>2007</Year>
+        </Movie>
+        <Movie >
+            <Id>112573</Id>
+            <Name>Braveheart</Name>
+            <Rating>8.4</Rating>
+            <Votes>212647</Votes>
+            <Year>1995</Year>
+        </Movie>
+        <Movie >
+            <Id>1631867</Id>
+            <Name>Edge of Tomorrow</Name>
+            <Rating>8</Rating>
+            <Votes>211343</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>102926</Id>
+            <Name>The Silence of the Lambs</Name>
+            <Rating>8.7</Rating>
+            <Votes>207463</Votes>
+            <Year>1991</Year>
+        </Movie>
+        <Movie >
+            <Id>88763</Id>
+            <Name>Back to the Future</Name>
+            <Rating>8.4</Rating>
+            <Votes>206670</Votes>
+            <Year>1985</Year>
+        </Movie>
+        <Movie >
+            <Id>167404</Id>
+            <Name>The Sixth Sense</Name>
+            <Rating>8.2</Rating>
+            <Votes>206662</Votes>
+            <Year>2000</Year>
+        </Movie>
+        <Movie >
+            <Id>416449</Id>
+            <Name>300</Name>
+            <Rating>7.9</Rating>
+            <Votes>204701</Votes>
+            <Year>2007</Year>
+        </Movie>
+        <Movie >
+            <Id>71562</Id>
+            <Name>The Godfather: Part II</Name>
+            <Rating>9</Rating>
+            <Votes>204207</Votes>
+            <Year>1975</Year>
+        </Movie>
+        <Movie >
+            <Id>1045658</Id>
+            <Name>Silver Linings Playbook</Name>
+            <Rating>7.9</Rating>
+            <Votes>204085</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>1024648</Id>
+            <Name>Argo</Name>
+            <Rating>7.9</Rating>
+            <Votes>202876</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>325980</Id>
+            <Name>Pirates of the Caribbean: The Curse of the Black Pearl</Name>
+            <Rating>8</Rating>
+            <Votes>199542</Votes>
+            <Year>2003</Year>
+        </Movie>
+        <Movie >
+            <Id>478970</Id>
+            <Name>Ant-Man</Name>
+            <Rating>7.5</Rating>
+            <Votes>196201</Votes>
+            <Year>2015</Year>
+        </Movie>
+        <Movie >
+            <Id>47396</Id>
+            <Name>Rear Window</Name>
+            <Rating>8.7</Rating>
+            <Votes>194184</Votes>
+            <Year>1954</Year>
+        </Movie>
+        <Movie >
+            <Id>1840309</Id>
+            <Name>Divergent</Name>
+            <Rating>6.9</Rating>
+            <Votes>193763</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>266697</Id>
+            <Name>Kill Bill: Vol. 1</Name>
+            <Rating>8.2</Rating>
+            <Votes>193298</Votes>
+            <Year>2003</Year>
+        </Movie>
+        <Movie >
+            <Id>103064</Id>
+            <Name>Terminator 2: Judgment Day</Name>
+            <Rating>8.5</Rating>
+            <Votes>192832</Votes>
+            <Year>1991</Year>
+        </Movie>
+        <Movie >
+            <Id>99685</Id>
+            <Name>Goodfellas</Name>
+            <Rating>8.8</Rating>
+            <Votes>191026</Votes>
+            <Year>1990</Year>
+        </Movie>
+        <Movie >
+            <Id>2179136</Id>
+            <Name>American Sniper</Name>
+            <Rating>7.4</Rating>
+            <Votes>190805</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>86250</Id>
+            <Name>Scarface</Name>
+            <Rating>8.2</Rating>
+            <Votes>189868</Votes>
+            <Year>2011</Year>
+        </Movie>
+        <Movie >
+            <Id>2103281</Id>
+            <Name>Dawn of the Planet of the Apes</Name>
+            <Rating>7.8</Rating>
+            <Votes>189028</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>454876</Id>
+            <Name>Life of Pi</Name>
+            <Rating>8.1</Rating>
+            <Votes>188515</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>1446714</Id>
+            <Name>Prometheus</Name>
+            <Rating>7.3</Rating>
+            <Votes>187724</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>2381249</Id>
+            <Name>Mission: Impossible - Rogue Nation</Name>
+            <Rating>7.5</Rating>
+            <Votes>185890</Votes>
+            <Year>2015</Year>
+        </Movie>
+        <Movie >
+            <Id>120586</Id>
+            <Name>American History X</Name>
+            <Rating>8.6</Rating>
+            <Votes>185309</Votes>
+            <Year>1999</Year>
+        </Movie>
+        <Movie >
+            <Id>75148</Id>
+            <Name>Rocky</Name>
+            <Rating>8.1</Rating>
+            <Votes>183533</Votes>
+            <Year>1976</Year>
+        </Movie>
+        <Movie >
+            <Id>948470</Id>
+            <Name>The Amazing Spider-Man</Name>
+            <Rating>7.3</Rating>
+            <Votes>183108</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>78748</Id>
+            <Name>Alien</Name>
+            <Rating>8.5</Rating>
+            <Votes>182848</Votes>
+            <Year>1979</Year>
+        </Movie>
+        <Movie >
+            <Id>2788710</Id>
+            <Name>The Interview</Name>
+            <Rating>6.9</Rating>
+            <Votes>182366</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>338013</Id>
+            <Name>Eternal Sunshine of the Spotless Mind</Name>
+            <Rating>8.5</Rating>
+            <Votes>181891</Votes>
+            <Year>2004</Year>
+        </Movie>
+        <Movie >
+            <Id>434409</Id>
+            <Name>V for Vendetta</Name>
+            <Rating>8.2</Rating>
+            <Votes>181663</Votes>
+            <Year>2006</Year>
+        </Movie>
+        <Movie >
+            <Id>1483013</Id>
+            <Name>Oblivion</Name>
+            <Rating>7</Rating>
+            <Votes>180739</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>317705</Id>
+            <Name>The Incredibles</Name>
+            <Rating>8.1</Rating>
+            <Votes>179941</Votes>
+            <Year>2004</Year>
+        </Movie>
+        <Movie >
+            <Id>105236</Id>
+            <Name>Reservoir Dogs</Name>
+            <Rating>8.4</Rating>
+            <Votes>178529</Votes>
+            <Year>1992</Year>
+        </Movie>
+        <Movie >
+            <Id>359950</Id>
+            <Name>The Secret Life of Walter Mitty</Name>
+            <Rating>7.4</Rating>
+            <Votes>178163</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>73486</Id>
+            <Name>One Flew Over the Cuckoo's Nest</Name>
+            <Rating>8.9</Rating>
+            <Votes>177255</Votes>
+            <Year>1976</Year>
+        </Movie>
+        <Movie >
+            <Id>78788</Id>
+            <Name>Apocalypse Now</Name>
+            <Rating>8.6</Rating>
+            <Votes>176465</Votes>
+            <Year>1979</Year>
+        </Movie>
+        <Movie >
+            <Id>2084970</Id>
+            <Name>The Imitation Game</Name>
+            <Rating>8.2</Rating>
+            <Votes>175583</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>246578</Id>
+            <Name>Donnie Darko</Name>
+            <Rating>8.3</Rating>
+            <Votes>175525</Votes>
+            <Year>2002</Year>
+        </Movie>
+        <Movie >
+            <Id>87469</Id>
+            <Name>Indiana Jones and the Temple of Doom</Name>
+            <Rating>7.6</Rating>
+            <Votes>175107</Votes>
+            <Year>1984</Year>
+        </Movie>
+        <Movie >
+            <Id>75314</Id>
+            <Name>Taxi Driver</Name>
+            <Rating>8.6</Rating>
+            <Votes>174979</Votes>
+            <Year>1976</Year>
+        </Movie>
+        <Movie >
+            <Id>1670345</Id>
+            <Name>Now You See Me</Name>
+            <Rating>7.3</Rating>
+            <Votes>172611</Votes>
+            <Year>2013</Year>
+        </Movie>
+        <Movie >
+            <Id>90605</Id>
+            <Name>Aliens</Name>
+            <Rating>8.5</Rating>
+            <Votes>172286</Votes>
+            <Year>1986</Year>
+        </Movie>
+        <Movie >
+            <Id>780504</Id>
+            <Name>Drive</Name>
+            <Rating>8</Rating>
+            <Votes>169826</Votes>
+            <Year>2011</Year>
+        </Movie>
+        <Movie >
+            <Id>50083</Id>
+            <Name>12 Angry Men</Name>
+            <Rating>8.9</Rating>
+            <Votes>169680</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>83866</Id>
+            <Name>E.T. the Extra-Terrestrial</Name>
+            <Rating>7.9</Rating>
+            <Votes>165714</Votes>
+            <Year>2012</Year>
+        </Movie>
+        <Movie >
+            <Id>126029</Id>
+            <Name>Shrek</Name>
+            <Rating>8</Rating>
+            <Votes>165512</Votes>
+            <Year>2001</Year>
+        </Movie>
+        <Movie >
+            <Id>2267998</Id>
+            <Name>Gone Girl</Name>
+            <Rating>8.4</Rating>
+            <Votes>165247</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>66921</Id>
+            <Name>A Clockwork Orange</Name>
+            <Rating>8.5</Rating>
+            <Votes>163130</Votes>
+            <Year>1972</Year>
+        </Movie>
+        <Movie >
+            <Id>120689</Id>
+            <Name>The Green Mile</Name>
+            <Rating>8.3</Rating>
+            <Votes>162683</Votes>
+            <Year>2000</Year>
+        </Movie>
+        <Movie >
+            <Id>2109248</Id>
+            <Name>Transformers: Age of Extinction</Name>
+            <Rating>5.9</Rating>
+            <Votes>162572</Votes>
+            <Year>2014</Year>
+        </Movie>
+        <Movie >
+            <Id>2872732</Id>
+            <Name>Lucy</Name>
+            <Rating>6.5</Rating>
+            <Votes>161904</Votes>
+            <Year>2014</Year>
+        </Movie>
+	</Movies>
+</MovieCollection>

@@ -1,0 +1,14 @@
+C:\Users\nijo14\Documents\Visual Studio 2015\Projects\FilmSamling\FilmSamling\bin\Debug\FilmSamling.exe.config
+C:\Users\nijo14\Documents\Visual Studio 2015\Projects\FilmSamling\FilmSamling\bin\Debug\moviecollection.xml
+C:\Users\nijo14\Documents\Visual Studio 2015\Projects\FilmSamling\FilmSamling\bin\Debug\FilmSamling.exe
+C:\Users\nijo14\Documents\Visual Studio 2015\Projects\FilmSamling\FilmSamling\bin\Debug\FilmSamling.pdb
+C:\Users\nijo14\Documents\Visual Studio 2015\Projects\FilmSamling\FilmSamling\obj\Debug\FilmSamling.csprojResolveAssemblyReference.cache
+C:\Users\nijo14\Documents\Visual Studio 2015\Projects\FilmSamling\FilmSamling\obj\Debug\FilmSamling.exe
+C:\Users\nijo14\Documents\Visual Studio 2015\Projects\FilmSamling\FilmSamling\obj\Debug\FilmSamling.pdb
+C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\bin\Debug\FilmSamling.exe.config
+C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\obj\Debug\FilmSamling.exe
+C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\obj\Debug\FilmSamling.pdb
+C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\bin\Debug\moviecollection.xml
+C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\bin\Debug\FilmSamling.exe
+C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\bin\Debug\FilmSamling.pdb
+C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\obj\Debug\FilmSamling.csprojResolveAssemblyReference.cache

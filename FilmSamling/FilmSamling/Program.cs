@@ -46,6 +46,13 @@ namespace FilmSamling
             //    Console.WriteLine(String.Format("{0,-60}", n.Name) + String.Format("{0,-10}", n.Year) + n.Rating);
             //}
 
+            //// Lists movies in alphabetical order based on name and list the ones beginning with G (uppgift 5)
+            //List<Movie> mcAlphabeticalG = mc.Movies.FindAll(movie => movie.Name.StartsWith("G")).ToList();
+            //foreach (Movie n in mcAlphabeticalG)
+            //{
+            //    Console.WriteLine(String.Format("{0,-60}", n.Name) + String.Format("{0,-10}", n.Year) + n.Rating);
+            //}
+
             Console.ReadKey();
         }
     }

@@ -12,3 +12,10 @@ C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\bin\Debug\moviecollection.xml
 C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\bin\Debug\FilmSamling.exe
 C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\bin\Debug\FilmSamling.pdb
 C:\Users\Jonas\Desktop\FilmSamling\FilmSamling\obj\Debug\FilmSamling.csprojResolveAssemblyReference.cache
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\FilmSamling\bin\Debug\FilmSamling.exe.config
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\FilmSamling\obj\Debug\FilmSamling.exe
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\FilmSamling\obj\Debug\FilmSamling.pdb
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\FilmSamling\bin\Debug\moviecollection.xml
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\FilmSamling\bin\Debug\FilmSamling.exe
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\FilmSamling\bin\Debug\FilmSamling.pdb
+C:\Git\RuneAnderbergT4\XML-Serialization-Linq\FilmSamling\FilmSamling\obj\Debug\FilmSamling.csprojResolveAssemblyReference.cache

@@ -8,20 +8,22 @@ using System.Xml.Serialization;
 
 namespace LoadXML
 {
+    [XmlRoot("boksamling")]
     public class BokSamling
     {
-        public List<Bok> boksamling = new List<Bok>();
+        [XmlElement("bok")]
+        public List<Bok> Boksamling = new List<Bok>();
     }
     
     public class Bok
     {
-        [XmlAttribute("sprak")] public string Language = "språk";
-        [XmlElement("titel")] public string Title = "titel";
-        [XmlElement("forfattare")] public string Author = "författare";
-        
-        public Bok()
-        {
-            
-        }
+        [XmlAttribute("sprak")]
+        public string Language { get; set; }
+
+        [XmlElement("titel")]
+        public string Title { get; set; }
+
+        [XmlElement("forfattare")]
+        public string Author { get; set; }
     }
 }

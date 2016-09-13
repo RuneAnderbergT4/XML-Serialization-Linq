@@ -9,16 +9,16 @@ namespace LoadXML
 {
     class Program
     {
-        static void Main(string[] args) { 
-        //{
-        //    Bok bok = new Bok();
-        //    ObjectXmlSerializer<Bok>.Save(bok, "testbok.xml");
+        static void Main(string[] args)
+        {
+            BokSamling bs = ObjectXmlSerializer<BokSamling>.Load("boksamling.xml");
 
-            BokSamling bs = new BokSamling();
-            bs.boksamling.Add( new Bok());
-            ObjectXmlSerializer<BokSamling>.Save(bs,"testboksamling.xml");
+            foreach (var n in bs.Boksamling)
+            {
+                Console.WriteLine(n.Title + " " + n.Author + " " + n.Language);
+            }
 
-            //BokSamling bs = ObjectXmlSerializer<BokSamling>.Load("boksamling.xml");
+            Console.ReadKey();
         }
     }
 }

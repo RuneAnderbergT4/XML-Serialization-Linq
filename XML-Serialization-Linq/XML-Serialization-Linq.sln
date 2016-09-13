@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmSamling", "FilmSamling\FilmSamling.csproj", "{0726479B-AB2A-4EAC-A908-D0D5B6448CE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkapaDataTest", "SkapaDataTest\SkapaDataTest.csproj", "{D44599BF-213C-4BF1-8212-4DFDAA0CC326}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadXML", "LoadXML\LoadXML.csproj", "{1A286455-1168-4A0C-AB3C-F6E2A87B678A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0726479B-AB2A-4EAC-A908-D0D5B6448CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0726479B-AB2A-4EAC-A908-D0D5B6448CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0726479B-AB2A-4EAC-A908-D0D5B6448CE1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D44599BF-213C-4BF1-8212-4DFDAA0CC326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D44599BF-213C-4BF1-8212-4DFDAA0CC326}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D44599BF-213C-4BF1-8212-4DFDAA0CC326}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D44599BF-213C-4BF1-8212-4DFDAA0CC326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A286455-1168-4A0C-AB3C-F6E2A87B678A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A286455-1168-4A0C-AB3C-F6E2A87B678A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A286455-1168-4A0C-AB3C-F6E2A87B678A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A286455-1168-4A0C-AB3C-F6E2A87B678A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

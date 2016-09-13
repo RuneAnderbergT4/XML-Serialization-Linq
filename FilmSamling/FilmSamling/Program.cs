@@ -53,6 +53,13 @@ namespace FilmSamling
             //    Console.WriteLine(String.Format("{0,-60}", n.Name) + String.Format("{0,-10}", n.Year) + n.Rating);
             //}
 
+            //// Lists movies with name containing ring (uppgift 6)
+            //List<Movie> mcRing = mc.Movies.FindAll(movie => movie.Name.Contains("Ring") || movie.Name.Contains("ring")).ToList();
+            //foreach (Movie n in mcRing)
+            //{
+            //    Console.WriteLine(String.Format("{0,-60}", n.Name) + String.Format("{0,-10}", n.Year) + n.Rating);
+            //}
+
             Console.ReadKey();
         }
     }
